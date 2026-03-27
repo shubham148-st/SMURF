@@ -1,2 +1,5 @@
 # SMURF
 
+elliptic_bitcoin
+dataset link: https://www.kaggle.com/datasets/ellipticco/elliptic-data-set
+download: Elliptic Bitcoin Dataset.csv, elliptic_txs_edgelist.csv, elliptic_txs_features.csv
