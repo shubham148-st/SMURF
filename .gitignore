@@ -2,3 +2,4 @@ AML_smurf/ibm_smurf_graph.pt
 AML_smurf/HI-Small_Trans.csv
 AML_smurf/.vscode/settings.json
 *.pyc
+AML_smurf/dataset/*
